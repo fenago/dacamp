@@ -21,3 +21,11 @@ Once their app is implemented, each group should thoroughly test it to make sure
 
 5. Presentation :
 Have each group present their implemented app to the class. They should demonstrate its functionality, explain how they modified the provided code, and discuss any challenges they faced and how they overcame them.
+
+OTHER NOTEBOOKS:
+
+YouTube Summarizer
+[https://colab.research.google.com/drive/16ToG9oLE1FzmLyG1d9G_5_n_NLO71ky4?usp=sharing](YouTubeSummarizer "https://colab.research.google.com/drive/16ToG9oLE1FzmLyG1d9G_5_n_NLO71ky4?usp=sharing")
+
+Twitter Sentiment
+[Twitter Sentiment](https://colab.research.google.com/drive/1WttIhUMxrUqc6QtzN61or2xXTu1Xu33k?usp=sharing "Twitter Sentiment")
